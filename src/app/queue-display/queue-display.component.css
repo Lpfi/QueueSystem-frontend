@@ -1,0 +1,45 @@
+.display-container {
+    text-align: center;
+    padding: 60px;
+    max-width: 600px;
+    margin: 40px auto;
+    background-color: #f0f9ff;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .queue-number {
+    font-size: 80px;
+    color: #007aff;
+    margin: 20px 0;
+  }
+  
+  .datetime {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .button {
+    padding: 15px 40px;
+    background-color: #4a90e2;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #357abd;
+    transform: translateY(-2px);
+  }
+  
